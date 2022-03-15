@@ -11,8 +11,6 @@
   <img height="180em" src="https://media.discordapp.net/attachments/721632565663891470/953298149408112730/1a.png"/>
   
 
-</div>
-
   <div> 
   <a href="https://www.instagram.com/devheredia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "devheredia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
