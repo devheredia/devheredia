@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://github.com/devheredia">
-  <img height="180em" src=https://github-readme-stats.vercel.app/api?username=devheredia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E
-  <img height="180em" src=https://github-readme-stats.vercel.app/api?username=devheredia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devheredia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E"/>
+  <img height="180em" src="https://media.discordapp.net/attachments/721632565663891470/953298149408112730/1a.png"/>
   
 
 </div>
