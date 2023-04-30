@@ -8,7 +8,6 @@
 <div>
   <a href="https://github.com/devheredia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devheredia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E"/>
-  <img align="right" alt="dev-heredia" heigth="300" width="180" src="https://media.discordapp.net/attachments/721632565663891470/953306108104175656/giphy.gif"/>
   <img align="right" alt="dev-heredia" heigth="300" width="180" src="https://github-readme-stats.vercel.app/api?username=devheredia&show_icons=true&theme=radical)"/>
 
   <div> 
