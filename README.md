@@ -8,7 +8,7 @@
 <div>
   <a href="https://github.com/devheredia">
 
-  <img height="180em" alt="dev-heredia" src="https://github-readme-stats.vercel.app/api?username=devheredia&show_icons=true&theme=dracula)"/>
+  <img height="180em" alt="dev-heredia" src="https://github-readme-stats.vercel.app/api?username=devheredia&show_icons=true&theme=dracula"/>
 
   <div> 
   <a href="https://www.instagram.com/devheredia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
