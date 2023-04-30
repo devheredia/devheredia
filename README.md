@@ -8,7 +8,7 @@
 <div>
   <a href="https://github.com/devheredia">
 
-  <img height="180em" alt="dev-heredia" src="https://github-readme-stats.vercel.app/api?username=devheredia&show_icons=true&theme=dracula"/>
+  <img height="240em" alt="dev-heredia" src="https://github-readme-stats.vercel.app/api?username=devheredia&show_icons=true&theme=dracula"/>
     
    <img height="360em" alt="dev-heredia" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats"/>
 
